@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LiveScore/static/css/main.0a4e9e0d.chunk.css",
+    "main.js": "/LiveScore/static/js/main.4f46d759.chunk.js",
+    "main.js.map": "/LiveScore/static/js/main.4f46d759.chunk.js.map",
+    "runtime-main.js": "/LiveScore/static/js/runtime-main.a6f18be6.js",
+    "runtime-main.js.map": "/LiveScore/static/js/runtime-main.a6f18be6.js.map",
+    "static/js/2.f17e7faa.chunk.js": "/LiveScore/static/js/2.f17e7faa.chunk.js",
+    "static/js/2.f17e7faa.chunk.js.map": "/LiveScore/static/js/2.f17e7faa.chunk.js.map",
+    "static/js/3.32f71f7a.chunk.js": "/LiveScore/static/js/3.32f71f7a.chunk.js",
+    "static/js/3.32f71f7a.chunk.js.map": "/LiveScore/static/js/3.32f71f7a.chunk.js.map",
+    "index.html": "/LiveScore/index.html",
+    "static/css/main.0a4e9e0d.chunk.css.map": "/LiveScore/static/css/main.0a4e9e0d.chunk.css.map",
+    "static/js/2.f17e7faa.chunk.js.LICENSE.txt": "/LiveScore/static/js/2.f17e7faa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6f18be6.js",
+    "static/js/2.f17e7faa.chunk.js",
+    "static/css/main.0a4e9e0d.chunk.css",
+    "static/js/main.4f46d759.chunk.js"
+  ]
+}
